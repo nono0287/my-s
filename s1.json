@@ -1,12 +1,12 @@
 {
-  "siteName": "My Digital Store",
-  "siteNameAccent": "Store",
+  "siteName": "OnlyPremuim",
+  "siteNameAccent": "",
   "tgChannel": "https://t.me/yourchannel",
   "tgOrder": "https://t.me/yourorderbot",
   "logoImg": "https://example.com/logo.png",
   "faviconData": "https://example.com/favicon.ico",
-  "heroBadge": "Premium Digital Products",
-  "heroTitle": "Your Digital Store",
+  "heroBadge": "#1 in the market",
+  "heroTitle": "Premuim Accounts",
   "heroSub": "Fast, secure and reliable digital products.",
   "orderMsg": "Hello, I want to order {name} for {price}. Balance: {balance}"
 }
