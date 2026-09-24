@@ -4,6 +4,7 @@
   "tgChannel": "https://t.me/yourchannel",
   "tgOrder": "https://t.me/yourorderbot",
   "logoImg": "https://example.com/logo.png",
+  "waOrder": "15551234567",
   "faviconData": "https://example.com/favicon.ico",
   "heroBadge": "#1 in the market",
   "heroTitle": "Premuim Accounts",
