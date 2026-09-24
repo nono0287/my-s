@@ -1,36 +1,20 @@
 [
   {
     "id": "p1",
-    "name": "USA IP Premium",
-    "category": "IP",
+    "name": "netflix Premium",
+    "category": "steaming",
     "price": 5.00,
-    "balance": "10 GB",
-    "img": "https://example.com/usa.jpg",
-    "description": "High quality USA IP address",
+    "balance": "1 month",
+    "img": "https://nr4qkkp9raicfwjm.public.blob.vercel-storage.com/blog/articles/2024/04/09/17126419974515842.jpg",
+    "description": "HQ premuim netflix account valid for month",
     "hot": true
   },
   {
-    "id": "p2",
-    "name": "UK IP Basic",
-    "category": "IP",
-    "price": 3.50,
-    "balance": "5 GB",
-    "img": "https://example.com/uk.jpg"
-  },
-  {
-    "id": "p3",
-    "name": "500 GB Storage",
-    "category": "GB",
-    "price": 12.00,
-    "balance": "500 GB",
-    "img": "https://example.com/storage.jpg"
-  },
-  {
-    "id": "p4",
-    "name": "Telegram Premium",
-    "category": "TGP",
-    "price": 8.00,
-    "balance": "1 Account",
-    "img": "https://example.com/tgp.jpg"
+    "id": "",
+    "name": "",
+    "category": "",
+    "price": ,
+    "balance": "",
+    "img": ""
   }
 ]
