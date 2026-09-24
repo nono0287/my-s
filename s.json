@@ -1,1 +1,36 @@
-
+[
+  {
+    "id": "p1",
+    "name": "USA IP Premium",
+    "category": "IP",
+    "price": 5.00,
+    "balance": "10 GB",
+    "img": "https://example.com/usa.jpg",
+    "description": "High quality USA IP address",
+    "hot": true
+  },
+  {
+    "id": "p2",
+    "name": "UK IP Basic",
+    "category": "IP",
+    "price": 3.50,
+    "balance": "5 GB",
+    "img": "https://example.com/uk.jpg"
+  },
+  {
+    "id": "p3",
+    "name": "500 GB Storage",
+    "category": "GB",
+    "price": 12.00,
+    "balance": "500 GB",
+    "img": "https://example.com/storage.jpg"
+  },
+  {
+    "id": "p4",
+    "name": "Telegram Premium",
+    "category": "TGP",
+    "price": 8.00,
+    "balance": "1 Account",
+    "img": "https://example.com/tgp.jpg"
+  }
+]
