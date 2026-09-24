@@ -1,1 +1,12 @@
-
+{
+  "siteName": "My Digital Store",
+  "siteNameAccent": "Store",
+  "tgChannel": "https://t.me/yourchannel",
+  "tgOrder": "https://t.me/yourorderbot",
+  "logoImg": "https://example.com/logo.png",
+  "faviconData": "https://example.com/favicon.ico",
+  "heroBadge": "Premium Digital Products",
+  "heroTitle": "Your Digital Store",
+  "heroSub": "Fast, secure and reliable digital products.",
+  "orderMsg": "Hello, I want to order {name} for {price}. Balance: {balance}"
+}
