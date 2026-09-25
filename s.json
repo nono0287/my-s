@@ -4,7 +4,7 @@
     "name": "netflix Premium",
     "category": "steaming",
     "price": 3.99,
-    "balance": "1 month",
+    "duration": "1 month",
     "img": "https://raw.githubusercontent.com/nono0287/my-s/refs/heads/main/New%20Project.jpg",
     "description": "HQ premuim netflix account valid for month",
     "hot": true
@@ -14,7 +14,7 @@
     "name": "chatgpt Premium",
     "category": "ai",
     "price": 14.99,
-    "balance": "12 months",
+    "duration": "12 months",
     "img": "",
     "description": "HQ chatgpt account valid for 12 months",
     "hot": true
