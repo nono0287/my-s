@@ -18,6 +18,16 @@
     "img": "",
     "description": "HQ chatgpt account valid for 12 months",
     "hot": true
+  },
+   {
+    "id": "p2",
+    "name": "chatgpt Premium",
+    "category": "ai",
+    "price": 14.99,
+    "balance": "12 months",
+    "img": "",
+    "description": "HQ chatgpt account valid for 12 months",
+    "hot": true
   }
 ]
 
